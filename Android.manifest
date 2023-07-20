@@ -1,15 +1,7 @@
 ManifestFileVersion: 0
-CRC: 607231956
+CRC: 4064282465
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: ngoc_01
-      Dependencies: {}
-    Info_1:
-      Name: ngoc_02
-      Dependencies: {}
-    Info_2:
       Name: config.asset
-      Dependencies:
-        Dependency_0: ngoc_01
-        Dependency_1: ngoc_02
+      Dependencies: {}

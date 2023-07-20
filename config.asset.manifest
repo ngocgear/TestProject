@@ -1,32 +1,22 @@
 ManifestFileVersion: 0
-CRC: 2512641149
+CRC: 2793283062
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: bc2094730dc93199d6192da1cc87052d
+    Hash: 954f671c38e9ad5345f37929f591ff01
   TypeTreeHash:
     serializedVersion: 2
-    Hash: a8d3d02d32e7a2b7037277cfb99be447
+    Hash: 10a6a558690295dadb3dd990eda0821a
 HashAppended: 0
 ClassTypes:
-- Class: 1
-  Script: {instanceID: 0}
-- Class: 4
-  Script: {instanceID: 0}
 - Class: 21
   Script: {instanceID: 0}
-- Class: 23
-  Script: {instanceID: 0}
-- Class: 33
-  Script: {instanceID: 0}
-- Class: 43
-  Script: {instanceID: 0}
-- Class: 135
+- Class: 48
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Data/Sphere (1).prefab
-- Assets/Data/Sphere.prefab
-Dependencies:
-- C:/Projects/ProjectTest/ProjectTest/Assets/StreamingAssets/Android/ngoc_01
-- C:/Projects/ProjectTest/ProjectTest/Assets/StreamingAssets/Android/ngoc_02
+- Assets/Data/MAT_01.mat
+- Assets/Data/SD_01.shader
+- Assets/Data/MAT_02.mat
+- Assets/Data/SD_02.shader
+Dependencies: []
