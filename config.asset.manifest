@@ -1,17 +1,33 @@
 ManifestFileVersion: 0
-CRC: 2793283062
+CRC: 2889483553
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 954f671c38e9ad5345f37929f591ff01
+    Hash: 44df8dd23b0798a2285eec64ac0bb197
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 10a6a558690295dadb3dd990eda0821a
+    Hash: bd31f0152c2770e9ffd62caa290c1cfb
 HashAppended: 0
 ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
 - Class: 21
   Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
 - Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9ba3865477ba24447921955e83b59d2f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
@@ -19,4 +35,6 @@ Assets:
 - Assets/Data/SD_01.shader
 - Assets/Data/MAT_02.mat
 - Assets/Data/SD_02.shader
+- Assets/Data/Sphere (1).prefab
+- Assets/Data/Sphere.prefab
 Dependencies: []
